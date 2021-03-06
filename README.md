@@ -10,7 +10,7 @@ I'm a Mechanical and Mining Engineer. Also I am a huge hobbiest about creating s
 <p align="center">
 <img src="icons/git.png"/>
 <img src="icons/vscode.png"/>
-<img src="icons/macos.png"/>
+<img src="icons/macos.png" width="48" height="48"/>
 <img src="icons/swift.png"/>
 <img src="icons/github.png"/>
 <img src="icons/unity.png"/>
