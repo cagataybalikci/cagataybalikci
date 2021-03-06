@@ -8,12 +8,12 @@ I'm a Mechanical and Mining Engineer. Also I am a huge hobbiest about creating s
 
 <h2 align="center">My skills include</h2>
 <p align="center">
-	<img src="icons/git.png"/>
-	<img src="icons/vscode.png"/>
-  <img src="icons/macOS.png"/>
-  <img src="icons/swift.png"/>
-  <img src="icons/github.png"/>
-  <img src="icons/unity.png"/>
+<img src="icons/git.png"/>
+<img src="icons/vscode.png"/>
+<img src="icons/macos.png"/>
+<img src="icons/swift.png"/>
+<img src="icons/github.png"/>
+<img src="icons/unity.png"/>
 	
 </p>
 
