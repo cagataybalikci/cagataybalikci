@@ -27,7 +27,7 @@ I'm a Mechanical and Mining Engineer. Also I am a huge hobbiest about creating s
 <h2 align="center">⚙️ GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/hsedaqat1378">
+  <a href="https://github.com/cagataybalikci">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagataybalikci&layout=compact&theme=radical&langs_count=12" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cagataybalikci&show_icons=true&include_all_commits=true&theme=radical" />
   </a>
