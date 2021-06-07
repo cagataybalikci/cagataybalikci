@@ -28,8 +28,8 @@ I'm a Mechanical and Mining Engineer. Also I am a huge hobbiest about creating s
 
 <p align="center">
   <a href="https://github.com/cagataybalikci">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagataybalikci&layout=compact&theme=radical&langs_count=12" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=cagataybalikci&show_icons=true&include_all_commits=true&theme=radical" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=cagataybalikci" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagataybalikci&layout=compact&langs_count=12&hide=TeX,PowerShell,ASP.NET" />
   </a>
 </p>
 
