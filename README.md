@@ -7,7 +7,7 @@
 
 
 
-I'm a Mechanical and Mining Engineer. Also I am a huge hobbiest about creating softwares and programming. I am on a journey to learn more stuff about tech world and wanna create new things in this learning journey. Feel free to share your thoughts and help me improve as a self-taught developer. Thanks :)
+I'm a Mechanical and Mining Engineer. Also I am a huge hobbiest about creating softwares and programming. I am on a journey to learn more stuff about tech world and wanna create new things in this learning journey. Feel free to share your thoughts and help me improve myself as a self-taught developer. Thanks :)
 
 <section>	
 <h2 align="center">Skills and Tools</h2>
@@ -39,8 +39,8 @@ I'm a Mechanical and Mining Engineer. Also I am a huge hobbiest about creating s
 
 <p align="center">
   <a href="https://github.com/cagataybalikci">
-<img  height="200em" src="https://github-readme-stats.vercel.app/api?username=cagataybalikci&show_icons=true&theme=dracula"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagataybalikci&layout=compact&langs_count=12&hide=TeX,PowerShell,ASP.NET&theme=dracula" />
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=cagataybalikci&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagataybalikci&layout=compact&langs_count=12&hide=TeX,PowerShell,ASP.NET&theme=dracula" />
   </a>
 </p>
 
