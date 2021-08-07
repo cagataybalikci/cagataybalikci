@@ -10,17 +10,21 @@
 I'm a Mechanical and Mining Engineer. Also I am a huge hobbiest about creating softwares and programming. I am on a journey to learn more stuff about tech world and wanna create new things in this learning journey. Feel free to share your thoughts and help me improve myself as a self-taught developer. Thanks :)
 
 <section>	
-<h2 align="center">Skills and Tools</h2>
+<h2 align="center">Skills</h2>
 <p align="center">
 <img src="icons/Html5.png"/>
 <img src="icons/CSS3.png"/>
 <img src="icons/JavaScript.png"/>
 <img src="icons/Sass.png"/>
+<img src="icons/Nodejs.png"/>
 <img src="icons/React.png"/>
 <img src="icons/Python.png"/>
 <img src="icons/Swift.png"/>
-<br>
-<img src="icons/Unity.png"/>
+<img src="icons/SwiftUI.png"/>
+  <img src="icons/Unity.png"/>
+ </p>
+ <h2 align="center">Tools</h2>
+  <p align="center">
 <img src="icons/Figma.png"/>
 <img src="icons/Git.png"/>
 <img src="icons/vscode.png"/>
