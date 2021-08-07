@@ -38,9 +38,7 @@ I'm a Mechanical and Mining Engineer. Also I am a huge hobbiest about creating s
     
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>	
 </p>
-<p align="center">
-<img src="icons/code.gif" width="350" height="200" />	
-</p>
+
 </section>
 
 
